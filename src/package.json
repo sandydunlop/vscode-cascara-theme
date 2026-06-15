@@ -1,0 +1,27 @@
+{
+  "name": "cascara-theme",
+  "displayName": "Cascara Theme",
+  "description": "Color scheme of Project Cascara",
+  "version": "1.0.0",
+  "icon": "images/cascara.png",
+  "publisher": "Cascara",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cascara OG",
+        "uiTheme": "vs-dark",
+        "path": "./themes/og.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandydunlop/vscode-cascara-theme.git"
+  }
+}
