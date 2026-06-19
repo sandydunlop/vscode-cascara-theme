@@ -2,7 +2,7 @@
   "name": "cascara-theme",
   "displayName": "Cascara Theme",
   "description": "Color scheme of Project Cascara",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "images/cascara.png",
   "publisher": "Cascara",
   "engines": {
